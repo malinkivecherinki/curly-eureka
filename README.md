@@ -1,7 +1,27 @@
-# curly-eureka
+# Project
 
-A development project with various utilities and tools.
+## Update 4
 
-## Getting Started
+This project includes various utilities and tools.
 
-This project contains scripts, utilities, and small applications.
+### Features
+
+- Feature 4
+- Utility functions
+- Configuration management
+
+### Installation
+
+\`\`\`bash
+npm install
+\`\`\`
+
+### Usage
+
+\`\`\`javascript
+const utils = require('./src/utils');
+\`\`\`
+
+### Changelog
+
+- Update 4: Added new features and improvements
