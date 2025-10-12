@@ -16,3 +16,16 @@
   "update_8": "2026-01-11T17:07:23.430334",
   "update_36": "2026-01-11T17:07:24.979597"
 }
+
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}
