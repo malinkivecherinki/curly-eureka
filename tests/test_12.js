@@ -10,3 +10,9 @@ describe('Feature 12', function() {
         assert.strictEqual(true, true);
     });
 });
+
+
+// Update 23
+function newFunction23() {
+    return 23;
+}
