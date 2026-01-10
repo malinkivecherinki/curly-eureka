@@ -16,3 +16,9 @@ describe('Feature 9', function() {
 function newFunction10() {
     return 10;
 }
+
+
+// Update 21
+function newFunction21() {
+    return 21;
+}
